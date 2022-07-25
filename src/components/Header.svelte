@@ -1,6 +1,6 @@
-<header class="bg-orange-600 flex p-4">
+<header class="bg-orange-600 flex p-4 text-white font-bold">
     <div>
-        <h1 class="text-white text-5xl font-bold">SBS</h1>
-        <h2 class="text-white text-xs font-bold">SoundBoard Social</h2>
+        <h1 class="text-5xl">SBS</h1>
+        <h2 class="text-xs">SoundBoard Social</h2>
     </div>
 </header>
